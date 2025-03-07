@@ -1,0 +1,13 @@
+<drawables>
+    <!-- <bitmap id="LauncherIcon" filename="launcher_icon.png" /> -->
+    <bitmap id="LauncherIcon" filename="frob.png" scaleX="100%" scaleRelativeTo="screen" packingFormat="png"/>
+    <bitmap id="Rock" filename="1_diffuseOriginal.bmp" scaleX="11%" scaleRelativeTo="screen" packingFormat="jpg"/>
+    <bitmap id="Grass" filename="1_diffuseOriginal_grass.png" scaleX="7%" scaleRelativeTo="screen" packingFormat="png"/>
+    <bitmap id="Frob" filename="frob.png" scaleX="5%" scaleRelativeTo="screen" packingFormat="png"/>
+    <bitmap id="Dirt" filename="9_diffuseOriginal.bmp" scaleX="25%" scaleRelativeTo="screen" packingFormat="jpg"/>
+
+    <!-- <bitmap id="canvas" filename="monkey.png" scaleX="100%" scaleRelativeTo="screen" packingFormat="png"/> -->
+
+    <bitmap id="nextArrow" filename="next_arrow.png"/>
+    <bitmap id="previousArrow" filename="previous_arrow.png"/>
+</drawables>

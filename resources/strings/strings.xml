@@ -1,0 +1,11 @@
+<strings>
+    <string id="AppName">FrobWorld</string>
+
+    <string id="prompt">Click the menu button</string>
+
+    <string id="menu_label_1">Unpause</string>
+    <string id="menu_label_2">Restart</string>
+    <string id="menu_label_3">New Sim</string>
+    <string id="menu_label_4">Seed</string>
+    <string id="numberSeparator">-</string>
+</strings>
